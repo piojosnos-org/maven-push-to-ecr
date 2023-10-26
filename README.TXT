@@ -1,4 +1,15 @@
 // --------------------------------------------------------------------------------
+// Quick Guide
+// --------------------------------------------------------------------------------
+
+For needed AWS resources see:
+
+https://github.com/piojosnos-org/cdk-github-ecr-user
+https://github.com/piojosnos-org/cdk-github-ecr-repo
+
+Everything below are just commands that got me to the final result (and could still be useful).
+
+// --------------------------------------------------------------------------------
 // BUILD IMAGE
 // --------------------------------------------------------------------------------
 
